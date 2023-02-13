@@ -354,8 +354,6 @@ text-align: center;
         padding-left: 16px;
 }
 .card {
-        width: 360px;
-        height: 420px;
-        border: 1px solid #E7E9FC;
-        }
+        border-bottom: 1px solid #E7E9FC;
+}
         
