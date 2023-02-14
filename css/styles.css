@@ -34,7 +34,7 @@ body {
         font-size: 16px;
         letter-spacing: 0.02em;
 }
-header {
+.header {
         border-bottom: 1px solid #E7E9FC;
 }
 .container {
