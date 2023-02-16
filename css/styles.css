@@ -143,7 +143,7 @@ body {
 /* секция герой */
 .hero-section {
         background: var(--color-dark-bg);
-        
+        padding: 188px 0;
 
 }
 .hero-wrapper {
@@ -151,7 +151,6 @@ body {
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        padding: 188px 0;
         gap: 48px;      
 }
 .hero-title {
@@ -324,6 +323,7 @@ text-align: center;
         background: var(--color-bg-button);
         box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
         border-radius: 4px;
+        border-color: var(--color-brand);
 }
 .filter-title {
         color: var(--color-dark-bg);
